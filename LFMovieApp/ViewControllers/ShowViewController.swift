@@ -24,6 +24,7 @@ class ShowViewController: UIViewController {
         showTableView.dataSource = self
         showTableView.delegate = self
         searchBar.delegate = self
+        hideKeyboardOnTapOnView()
     }
     
     override func viewWillAppear(_ animated: Bool) {
