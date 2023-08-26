@@ -1,3 +1,9 @@
+
+## ⌛️ Note:
+<b>Please be aware that this project was created some time ago and does not reflect my current skill level. For a glimpse of my recent work and evolving abilities, I recommend exploring my more recent repositories, all of which are presented in <a href="https://oranlevi.dev" target="_blank" >my portfolio</a>.</b>
+
+---
+
 LFMovieApp
 ==========
 LFMovieApp It is an app that presents and allows you to discover TV shows and movies from different categories, and allows you to view an overview and description of the TV show/movie and show user reviews, you can even be saved for later viewing.
